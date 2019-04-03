@@ -1,0 +1,5 @@
+print ("Hello and welcome to the aspect ratio calculator")
+print ("Created by GameTours - https://github.com/gametours")
+orgwidth = input ("What is the width of the image?")
+orgheight = input ("What is the height of the image?")
+multiplier = input ("How much do you want to increase/decrease the size of the image by? (Use decimal numbers for decrease!)")
